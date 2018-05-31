@@ -6,4 +6,5 @@ package kalog.com.vn.learn.controller.route;
  */
 
 public class Route {
+
 }
