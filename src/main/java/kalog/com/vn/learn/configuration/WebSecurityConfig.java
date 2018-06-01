@@ -1,4 +1,4 @@
-package kalog.com.vn.learn.config;
+package kalog.com.vn.learn.configuration;
 
 /**
  * Author Mikorn vietnam
