@@ -6,4 +6,5 @@ package kalog.com.vn.learn.log;
  */
 
 public class LogConfig {
+
 }
